@@ -28,7 +28,8 @@ Here are some ideas to get you started:
   - Image Processing
   - Machine Learning using python
   - Reinforcement Learning
-  - React.js admin dashboard 
+  - Flutter
+  - Strapi 
   - kotlin coroutines
   
 - 📫 How to reach me
