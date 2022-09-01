@@ -19,18 +19,15 @@ Here are some ideas to get you started:
 - 🔭I'm currently working 
   - development of CI/CD integration tool in kubernetes platform using golang.( client.go )
   - Kubernetes Operator and Controller development with golang
-  - RESTful api with go, nodejs
-  - Android Native app development using java,kotlin
-  - IOS Native app development using Swift
+  - RESTful api with go, django (python)
   - Microservices with go-micro,micro withing kubernetes, gRPC
 
 - 🌱 I'm currently Learning 
-  - Image Processing
+  - Product Planning
+  - Project Management
+  - Database Planning
   - Machine Learning using python
-  - Reinforcement Learning
-  - Flutter
-  - Strapi 
-  - kotlin coroutines
+  - Reinforcement Learning 
   
 - 📫 How to reach me
      email: subrat.gyawali@gmail.com
